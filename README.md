@@ -1,2 +1,2 @@
 # primer-demo-de-clase
-este es un demo en sabadopor la mañana
+este es un demo en sabado por la mañana
